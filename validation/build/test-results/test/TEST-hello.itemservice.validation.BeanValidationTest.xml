@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="hello.itemservice.validation.BeanValidationTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-10-10T05:40:29" hostname="yeomseonghyeon-ui-MacBookAir.local" time="0.17">
+  <properties/>
+  <testcase name="beanValidation()" classname="hello.itemservice.validation.BeanValidationTest" time="0.17"/>
+  <system-out><![CDATA[14:40:29.073 [Test worker] INFO org.hibernate.validator.internal.util.Version -- HV000001: Hibernate Validator 8.0.1.Final
+violation=ConstraintViolationImpl{interpolatedMessage='9999 이하여야 합니다', propertyPath=quantity, rootBeanClass=class hello.itemservice.domain.item.Item, messageTemplate='{jakarta.validation.constraints.Max.message}'}
+violation.message=9999 이하여야 합니다
+violation=ConstraintViolationImpl{interpolatedMessage='공백일 수 없습니다', propertyPath=itemName, rootBeanClass=class hello.itemservice.domain.item.Item, messageTemplate='{jakarta.validation.constraints.NotBlank.message}'}
+violation.message=공백일 수 없습니다
+violation=ConstraintViolationImpl{interpolatedMessage='1000에서 1000000 사이여야 합니다', propertyPath=price, rootBeanClass=class hello.itemservice.domain.item.Item, messageTemplate='{org.hibernate.validator.constraints.Range.message}'}
+violation.message=1000에서 1000000 사이여야 합니다
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
