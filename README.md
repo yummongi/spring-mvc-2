@@ -65,39 +65,39 @@
 - [x] 정리
 
 ### 섹션 5: 검증1 - Validation
-- [ ] 검증 요구사항
-- [ ] 프로젝트 설정 V1
-- [ ] 검증 직접 처리 - 소개
-- [ ] 검증 직접 처리 - 개발
-- [ ] 프로젝트 준비 V2
-- [ ] BindingResult1
-- [ ] BindingResult2
-- [ ] FieldError, ObjectError
-- [ ] 오류 코드와 메시지 처리1
-- [ ] 오류 코드와 메시지 처리2
-- [ ] 오류 코드와 메시지 처리3
-- [ ] 오류 코드와 메시지 처리4
-- [ ] 오류 코드와 메시지 처리5
-- [ ] 오류 코드와 메시지 처리6
-- [ ] Validator 분리1
-- [ ] Validator 분리2
-- [ ] 정리
+- [x] 검증 요구사항
+- [x] 프로젝트 설정 V1
+- [x] 검증 직접 처리 - 소개
+- [x] 검증 직접 처리 - 개발
+- [x] 프로젝트 준비 V2
+- [x] BindingResult1
+- [x] BindingResult2
+- [x] FieldError, ObjectError
+- [x] 오류 코드와 메시지 처리1
+- [x] 오류 코드와 메시지 처리2
+- [x] 오류 코드와 메시지 처리3
+- [x] 오류 코드와 메시지 처리4
+- [x] 오류 코드와 메시지 처리5
+- [x] 오류 코드와 메시지 처리6
+- [x] Validator 분리1
+- [x] Validator 분리2
+- [x] 정리
 
 ### 섹션 6: 검증2 - Bean Validation
-- [ ] Bean Validation - 소개
-- [ ] Bean Validation - 시작
-- [ ] Bean Validation - 프로젝트 준비 V3
-- [ ] Bean Validation - 스프링 적용
-- [ ] Bean Validation - 에러 코드
-- [ ] Bean Validation - 오브젝트 오류
-- [ ] Bean Validation - 수정에 적용
-- [ ] Bean Validation - 한계
-- [ ] Bean Validation - groups
-- [ ] Form 전송 객체 분리 - 프로젝트 준비 V4
-- [ ] Form 전송 객체 분리 - 소개
-- [ ] Form 전송 객체 분리 - 개발
-- [ ] Bean Validation - HTTP 메시지 컨버터
-- [ ] 정리
+- [x] Bean Validation - 소개
+- [x] Bean Validation - 시작
+- [x] Bean Validation - 프로젝트 준비 V3
+- [x] Bean Validation - 스프링 적용
+- [x] Bean Validation - 에러 코드
+- [x] Bean Validation - 오브젝트 오류
+- [x] Bean Validation - 수정에 적용
+- [x] Bean Validation - 한계
+- [x] Bean Validation - groups
+- [x] Form 전송 객체 분리 - 프로젝트 준비 V4
+- [x] Form 전송 객체 분리 - 소개
+- [x] Form 전송 객체 분리 - 개발
+- [x] Bean Validation - HTTP 메시지 컨버터
+- [x] 정리
 
 ### 섹션 7: 로그인 처리1 - 쿠키, 세션
 - [ ] 로그인 요구사항
@@ -176,7 +176,7 @@
 - [x] 타임리프 기본 기능 활용 예제
 - [x] 스프링 통합 폼 처리
 - [x] 메시지, 국제화 적용
-- [ ] 검증 로직 구현
+- [x] 검증 로직 구현
 - [ ] 로그인 기능 구현
 
 ## 🔗 링크
@@ -201,5 +201,6 @@
 | 2024-10-02 | 섹션 1-2 완료           | 타임리프 기본 기능 학습 완료               |
 | 2024-10-04 | 섹션 3 완료           | 타임리프 스프링 통합 기능 학습 완료               |
 | 2024-10-04 | 섹션 4 완료           | 메시지, 국제화 기능 학습 완료               |
+| 2024-10-12 | 섹션 5-6 완료 | Validation 및 Bean Validation 학습 완료 | 
 
 🌱 스프링 MVC의 기본 기능을 학습하고, 더 나은 백엔드 개발자가 되자!
